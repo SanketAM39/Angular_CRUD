@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "Fresh",
+      "date": "2022-12-01T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Nishant",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 150,
+      "comment": "I am happy",
+      "date": "2022-12-01T18:30:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
